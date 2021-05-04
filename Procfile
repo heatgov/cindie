@@ -1,1 +1,1 @@
-Worker: python discordchatbot.py
+Worker: python3.9 discordchatbot.py
