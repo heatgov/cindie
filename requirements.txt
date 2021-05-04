@@ -5,4 +5,3 @@ ffprobe
 PyNaCl
 chatbotai
 wikipedia
-python-3.9.5
