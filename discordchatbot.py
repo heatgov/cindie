@@ -41,4 +41,4 @@ async def cindie(ctx,*,message):
                 embed.set_footer(text = "Page {}".format(num))
                 await ctx.send(embed = embed)
 
-bot.run('ODM4MzU1NDg1ODY2MTk3MDUy.YI55Yw.1nWEHFRLVNL9R-TZaSpxrvhnuk4')
+bot.run('add token bot')
